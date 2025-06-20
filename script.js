@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     setTimeout(() => {
                         funBgImage.classList.remove('show');
                         funBgImage.classList.add('hidden');
-                    }, 3000); // Hide after 3 seconds
+                    }, 10000); // Hide after 3 seconds
                 }
             }
         });
